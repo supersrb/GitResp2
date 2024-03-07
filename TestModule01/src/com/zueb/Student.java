@@ -14,5 +14,6 @@ public class Student {
 		System.out.println("制造一次冲突 BY 工作区");
         System.out.println("制造一次冲突 BY 工作区");
         System.out.println("制造一次冲突 BY IDEA");
+		System.out.println("制造一次冲突 BY 工作区 --2 ");
     }
 }
