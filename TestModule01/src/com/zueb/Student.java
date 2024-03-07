@@ -11,5 +11,7 @@ public class Student {
         System.out.println("你好");
         System.out.println("实行一次提交和推送同时进行");
         System.out.println("实行一次克隆后的push操作");
+		System.out.println("制造一次冲突 BY 工作区");
+        System.out.println("制造一次冲突 BY 工作区");
     }
 }
