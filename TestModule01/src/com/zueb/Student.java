@@ -7,7 +7,6 @@ package com.zueb;
  */
 public class Student {
     private int age;
-    private String name;
     public static void main(String[] args) {
         System.out.println("再见");
         System.out.println("你好");
