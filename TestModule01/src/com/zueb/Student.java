@@ -8,7 +8,7 @@ package com.zueb;
 public class Student {
     public static void main(String[] args) {
 
-        System.out.println("再见");
+        System.out.println("第一次更改");
         System.out.println("你好");
     }
 }
